@@ -1,0 +1,9 @@
+{
+  "name": "TestCoin",
+  "symbol": "TST",
+  "decimals": 9,
+  "totalSupply": 1000000000,
+  "mintAddress": "FJfdRrcLA2wH9mz5KzKf5HQ5JhRpVaEf3yQ5RLfgZgQK",
+  "tokenAccount": "GrN86DYGRiD8w2UPqbcuzHeMznV946ioDYfB9P9ErUbE",
+  "createdAt": "2023-03-02T08:00:00.000Z"
+}

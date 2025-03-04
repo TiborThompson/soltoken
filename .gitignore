@@ -1,0 +1,72 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Wallets and keys
+*.json
+!package.json
+!token-info-*.json
+!.prettierrc
+!*.config.json
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Build output
+build/
+dist/
+out/
+.next/
+.nuxt/
+public/
+coverage/
+
+# OS files
+.DS_Store
+Thumbs.db
+.directory
+desktop.ini
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.settings/
+*.iml
+*.ipr
+*.iws
+
+# Temporary files
+.tmp/
+temp/
+.cache/
+.eslintcache
+.npm/
+
+# Solana specific
+.anchor/
+target/
+anchor.log
+anchor.err
+
+# Misc
+.env.*.local
+.vercel
