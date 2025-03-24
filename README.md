@@ -1,8 +1,6 @@
 # SolToken - Solana Token Generator & Manager
 
-<p align="center">
-  <img src="https://solana.com/_next/static/media/logotype.e4df684f.svg" alt="Solana" width="400" />
-</p>
+
 
 <p align="center">
   <strong>A comprehensive toolkit for creating and managing custom tokens on Solana</strong>
