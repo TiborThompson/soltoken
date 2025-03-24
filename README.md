@@ -202,5 +202,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Made with passion by <a href="https://github.com/yourusername">Your Name</a>
+  Made with passion by <a href="https://github.com/TiborThompson">Tibor Thompson</a>
 </p>
